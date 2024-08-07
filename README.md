@@ -19,7 +19,7 @@ To leverage my analytical skills and passion for cybersecurity in a challenging 
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Phyton Coding                                 | <a href="https://google.com"> 100 Days of Code</a>|
+| Phyton Coding                                 | <a href= "https://github.com/Jliquaj/100-Days-of-Code/blob/main/README.md">100 Days of Code</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -57,4 +57,4 @@ To leverage my analytical skills and passion for cybersecurity in a challenging 
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- 100 Days of Code
+- [100 Days of Code](https://github.com/Jliquaj/100-Days-of-Code/blob/main/README.md)
