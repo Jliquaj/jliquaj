@@ -1,4 +1,7 @@
 # Hello, I'm J'liqua 👋🏾
+<img src="cartoon-cybersecurity-woman.png" alt="Cybersecurity Woman" width="300"/>
+
+
 <a href="https://linkedin.com/in/j’liqua-j-503008b3/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -6,7 +9,7 @@ I am a current student with a profound interest in technology and a dedication t
 
 ## Objective
 
-To leverage my analytical skills and passion for cybersecurity in a challenging role where I can contribute to protecting organizational assets, ensuring data integrity, and enhancing security protocols against evolving cyber threats.
+To leverage my analytical skills and passion for cybersecurity in a challenging role where I can contribute to safeguarding organizational assets, enhancing security protocols, and mitigating evolving cyber threats. I aim to support data integrity and strengthen the organization’s security posture through innovative solutions and continuous learning. 
 
 ## Skills
 
