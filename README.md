@@ -20,7 +20,7 @@ To leverage my analytical skills and passion for cybersecurity in a challenging 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Soc Detection Lab                             | <a href="https://github.com/Jliquaj/SOC-Detection-Lab/blob/main/README.md)">SIEM Lab</a>|
+| SOC Detection Lab                             | <a href="https://github.com/Jliquaj/SOC-Detection-Lab/blob/main/README.md)">SIEM Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
