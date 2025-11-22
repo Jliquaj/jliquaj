@@ -53,7 +53,8 @@ To leverage my analytical skills and passion for cybersecurity in a challenging 
 ## Certifications
 <a href="https://www.credly.com/badges/781d950a-cba1-40d3-8554-7b9b8cda7072/public_url" target="_blank">
   <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+ Certification Badge" />
-</a>
+<a href="[https://www.credly.com/badges/781d950a-cba1-40d3-8554-7b9b8cda7072/public_url)" target="_blank"> 
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 
 <div>
