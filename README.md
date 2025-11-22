@@ -55,6 +55,11 @@ To leverage my analytical skills and passion for cybersecurity in a challenging 
   <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+ Certification Badge" />
 <a href="https://www.credly.com/badges/b3f6a8b6-253e-4223-b2fe-0aa83305575e/public_url)" target="_blank"> 
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/b0a77f22-9174-4e71-aac9-dc0128787ec1/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/-CIS--OS-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA IT Operations Specialist (CIS-OS) Certification Badge" />
+</a>
+
+
 
 
 <div>
