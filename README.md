@@ -59,14 +59,14 @@ To leverage my analytical skills and passion for cybersecurity in a challenging 
   <img src="https://img.shields.io/badge/-CIS--OS-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA IT Operations Specialist (CIS-OS) Certification Badge" />
 <a <a href="https://www.credly.com/badges/06906581-179b-4b50-8240-7474739adcad/public_url" target="_blank">
   <img src="https://img.shields.io/badge/-Security%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Certification Badge"
-  />
+  
 </a>
 
 </a>
 
    
     
-  />
+  
 </a>
 
 
