@@ -8,14 +8,9 @@ I'm building a career in cybersecurity, with a focus on SOC analysis, alert tria
 
 ## Projects
 
-### [SOC Detection Lab](https://github.com/Jliquaj/SOC-Detection-Lab)
-
-A hands-on Splunk lab using Apache access logs to investigate repeated authentication failures and requests to sensitive web paths. The project documents the raw data, field extraction, searches, and visualizations used to identify patterns worth investigating.
-
-- **Log analysis:** Examined HTTP methods, status codes, client IPs, and requested paths.
-- **Detection:** Grouped `401` responses by IP to surface repeated failed requests and reviewed access to paths such as `/admin` and `/wp-login.php`.
-- **Investigation:** Used Splunk field extraction, a path breakdown, and a timechart to put the activity in context.
-- **Documentation:** Included screenshots and explanations of the investigative steps and findings.
+| Project | Overview |
+| --- | --- |
+| [SOC Detection Lab](https://github.com/Jliquaj/SOC-Detection-Lab) | Investigated Apache access logs in Splunk for repeated `401` responses and requests to sensitive paths. The linked project includes investigation steps, visualizations, and screenshots. |
 
 ## Skills and tools
 
