@@ -6,7 +6,7 @@ I'm building a career in cybersecurity, with a focus on SOC analysis, alert tria
 
 [LinkedIn](https://linkedin.com/in/j%E2%80%99liqua-j-503008b3/)
 
-## Featured project
+## Projects
 
 ### [SOC Detection Lab](https://github.com/Jliquaj/SOC-Detection-Lab)
 
