@@ -1,84 +1,39 @@
-# Hello, I'm J'liqua 👋🏾
+# Hi, I'm Jliqua Joseph 👋🏾
 
-I am a current student with a profound interest in technology and a dedication to solving complex problems.
+I'm building a career in cybersecurity, with a focus on SOC analysis, alert triage, and incident investigation. I enjoy turning logs and other evidence into clear findings and practical next steps.
 
+<img src="cartoon-cybersecurity-woman.png" alt="Illustration of a cybersecurity analyst" width="260">
 
-<img src="cartoon-cybersecurity-woman.png" alt="Cybersecurity Woman" width="300"/>
+[LinkedIn](https://linkedin.com/in/j%E2%80%99liqua-j-503008b3/)
 
+## Featured project
 
-<a href="https://linkedin.com/in/j’liqua-j-503008b3/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### [SOC Detection Lab](https://github.com/Jliquaj/SOC-Detection-Lab)
 
+A hands-on Splunk lab using Apache access logs to investigate repeated authentication failures and requests to sensitive web paths. The project documents the raw data, field extraction, searches, and visualizations used to identify patterns worth investigating.
 
+- **Log analysis:** Examined HTTP methods, status codes, client IPs, and requested paths.
+- **Detection:** Grouped `401` responses by IP to surface repeated failed requests and reviewed access to paths such as `/admin` and `/wp-login.php`.
+- **Investigation:** Used Splunk field extraction, a path breakdown, and a timechart to put the activity in context.
+- **Documentation:** Included screenshots and explanations of the investigative steps and findings.
 
+## Skills and tools
 
-## Objective
-
-To leverage my analytical skills and passion for cybersecurity in a challenging role where I can contribute to safeguarding organizational assets, enhancing security protocols, and mitigating evolving cyber threats. I aim to support data integrity and strengthen the organization’s security posture through innovative solutions and continuous learning. 
-
-## Skills
-
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SOC Detection Lab                             | <a href="https://github.com/Jliquaj/SOC-Detection-Lab">SIEM Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Phyton Coding                                 |                             |
-
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+| Area | Experience |
+| --- | --- |
+| Security analysis | Alert triage, log review, IOC investigation, and incident documentation |
+| SIEM and logs | Splunk, Apache access logs, and Windows event logs |
+| Network and systems | Wireshark, Windows, and Linux |
 
 ## Certifications
-<a href="https://www.credly.com/badges/781d950a-cba1-40d3-8554-7b9b8cda7072/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+ Certification Badge" />
-<a href="https://www.credly.com/badges/b3f6a8b6-253e-4223-b2fe-0aa83305575e/public_url)" target="_blank"> 
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href="https://www.credly.com/badges/b0a77f22-9174-4e71-aac9-dc0128787ec1/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/-CIS--OS-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA IT Operations Specialist (CIS-OS) Certification Badge" />
-<a <a href="https://www.credly.com/badges/06906581-179b-4b50-8240-7474739adcad/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/-Security%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Certification Badge"
-  
-</a>
 
-</a>
+- [CompTIA A+](https://www.credly.com/badges/781d950a-cba1-40d3-8554-7b9b8cda7072/public_url)
+- [CompTIA Network+](https://www.credly.com/badges/b3f6a8b6-253e-4223-b2fe-0aa83305575e/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/06906581-179b-4b50-8240-7474739adcad/public_url)
+- [CompTIA Project+](https://www.credly.com/badges/37d72834-bdbb-46f4-8587-61afb3352747/public_url)
+- [CompTIA Data+](https://www.credly.com/badges/c2cd7564-0d57-465f-b029-b3c0d920fe20/public_url)
+- ITIL Foundation
 
-   
-    
-  
-</a>
+## What I'm working toward
 
-
-
-
-
-<div>
-
-
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
-
+My cybersecurity coursework at WGU and hands-on lab work support my goal of moving into a junior SOC or cybersecurity analyst role. I'm building more investigations that show the evidence, queries, and reasoning behind each conclusion.
