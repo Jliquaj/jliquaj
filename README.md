@@ -1,15 +1,9 @@
 <div align="center">
-
-# Hi, I'm Jliqua Joseph 👋🏾
-
-**Aspiring SOC Analyst · Cybersecurity Explorer · Detail-Oriented Investigator**
-
-I turn logs and other evidence into clear findings and practical next steps.
-
-<img src="cartoon-cybersecurity-woman.png" alt="Illustration of a cybersecurity analyst" width="230">
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-A9D8F3?style=for-the-badge&logo=linkedin&logoColor=243746)](https://linkedin.com/in/j%E2%80%99liqua-j-503008b3/)
-
+  <h1>Hi, I'm Jliqua Joseph 👋🏾</h1>
+  <p><strong>Aspiring SOC Analyst · Cybersecurity Explorer · Detail-Oriented Investigator</strong></p>
+  <p>I turn logs and other evidence into clear findings and practical next steps.</p>
+  <img src="cartoon-cybersecurity-woman.png" alt="Illustration of a cybersecurity analyst" width="230">
+  <p><a href="https://linkedin.com/in/j%E2%80%99liqua-j-503008b3/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-A9D8F3?style=for-the-badge&amp;logo=linkedin&amp;logoColor=243746" alt="Connect on LinkedIn"></a></p>
 </div>
 
 ---
@@ -40,8 +34,4 @@ A Splunk investigation of sample Apache access logs. I reviewed `401` responses 
 
 ---
 
-<div align="center">
-
-🩵 **Currently building:** More investigations that show the evidence, queries, and reasoning behind each conclusion.
-
-</div>
+<p align="center">🩵 <strong>Currently building:</strong> More investigations that show the evidence, queries, and reasoning behind each conclusion.</p>
