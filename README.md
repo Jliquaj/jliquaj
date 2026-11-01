@@ -1,9 +1,12 @@
 <div align="center">
-  <h1>Hi, I'm Jliqua Joseph 👋🏾</h1>
-  <p><strong>Aspiring SOC Analyst · Cybersecurity Explorer · Detail-Oriented Investigator</strong></p>
-  <p>I turn logs and other evidence into clear findings and practical next steps.</p>
-  <img src="cartoon-cybersecurity-woman.png" alt="Illustration of a cybersecurity analyst" width="230">
-  <p><a href="https://linkedin.com/in/j%E2%80%99liqua-j-503008b3/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-A9D8F3?style=for-the-badge&amp;logo=linkedin&amp;logoColor=243746" alt="Connect on LinkedIn"></a></p>
+  <img src="assets/portfolio-banner.svg" alt="Jliqua Joseph — cybersecurity portfolio; SOC analysis, log investigations, and clear documentation" width="100%">
+  <br><br>
+  <img src="cartoon-cybersecurity-woman.png" alt="Illustration of a cybersecurity analyst" width="180">
+  <p><strong>Hi, I'm Jliqua 👋🏾</strong><br>I turn logs and other evidence into clear findings and practical next steps.</p>
+  <p>
+    <a href="https://linkedin.com/in/j%E2%80%99liqua-j-503008b3/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-A9D8F3?style=for-the-badge&amp;logo=linkedin&amp;logoColor=243746" alt="Connect on LinkedIn"></a>
+    <a href="https://github.com/Jliquaj/SOC-Detection-Lab"><img src="https://img.shields.io/badge/Explore_my_lab-F7C9DA?style=for-the-badge&amp;logo=github&amp;logoColor=243746" alt="Explore my SOC lab"></a>
+  </p>
 </div>
 
 ---
@@ -14,8 +17,13 @@ I'm building a career in cybersecurity with a focus on SOC analysis, alert triag
 
 ### 🔎 Featured project
 
-**[SOC Detection Lab →](https://github.com/Jliquaj/SOC-Detection-Lab)**  
+**[SOC Detection Lab →](https://github.com/Jliquaj/SOC-Detection-Lab)**
+
 A Splunk investigation of sample Apache access logs. I reviewed `401` responses and requests to sensitive paths, then documented the searches, visuals, and observations. The project includes screenshots and notes on what the sample can and cannot establish.
+
+[![Splunk visualization showing client IPs and requested paths](https://raw.githubusercontent.com/Jliquaj/SOC-Detection-Lab/main/ref7-clientip-path-bar-chart.jpeg)](https://github.com/Jliquaj/SOC-Detection-Lab)
+
+*Click the visualization to see the full investigation.*
 
 ### 🛠️ Skills & tools
 
