@@ -1,34 +1,47 @@
+<div align="center">
+
 # Hi, I'm Jliqua Joseph 👋🏾
 
-I'm building a career in cybersecurity, with a focus on SOC analysis, alert triage, and incident investigation. I enjoy turning logs and other evidence into clear findings and practical next steps.
+**Aspiring SOC Analyst · Cybersecurity Explorer · Detail-Oriented Investigator**
 
-<img src="cartoon-cybersecurity-woman.png" alt="Illustration of a cybersecurity analyst" width="260">
+I turn logs and other evidence into clear findings and practical next steps.
 
-[LinkedIn](https://linkedin.com/in/j%E2%80%99liqua-j-503008b3/)
+<img src="cartoon-cybersecurity-woman.png" alt="Illustration of a cybersecurity analyst" width="230">
 
-## Projects
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-A9D8F3?style=for-the-badge&logo=linkedin&logoColor=243746)](https://linkedin.com/in/j%E2%80%99liqua-j-503008b3/)
 
-| Project | Overview |
+</div>
+
+---
+
+### 🌷 A little about me
+
+I'm building a career in cybersecurity with a focus on SOC analysis, alert triage, and incident investigation. My WGU cybersecurity coursework and hands-on lab work help me practice following the evidence, explaining what I found, and identifying sensible next steps.
+
+### 🔎 Featured project
+
+**[SOC Detection Lab →](https://github.com/Jliquaj/SOC-Detection-Lab)**  
+A Splunk investigation of sample Apache access logs. I reviewed `401` responses and requests to sensitive paths, then documented the searches, visuals, and observations. The project includes screenshots and notes on what the sample can and cannot establish.
+
+### 🛠️ Skills & tools
+
+| Focus | What I've worked with |
 | --- | --- |
-| [SOC Detection Lab](https://github.com/Jliquaj/SOC-Detection-Lab) | Investigated Apache access logs in Splunk for repeated `401` responses and requests to sensitive paths. The linked project includes investigation steps, visualizations, and screenshots. |
+| **Security analysis** | Alert triage, log review, IOC investigation, incident documentation |
+| **SIEM & logs** | Splunk, Apache access logs, Windows event logs |
+| **Systems & network** | Windows, Linux, Wireshark |
 
-## Skills and tools
+### 🎓 Certifications
 
-| Area | Experience |
+| CompTIA | More |
 | --- | --- |
-| Security analysis | Alert triage, log review, IOC investigation, and incident documentation |
-| SIEM and logs | Splunk, Apache access logs, and Windows event logs |
-| Network and systems | Wireshark, Windows, and Linux |
+| [A+](https://www.credly.com/badges/781d950a-cba1-40d3-8554-7b9b8cda7072/public_url) · [Network+](https://www.credly.com/badges/b3f6a8b6-253e-4223-b2fe-0aa83305575e/public_url) · [Security+](https://www.credly.com/badges/06906581-179b-4b50-8240-7474739adcad/public_url) | ITIL Foundation |
+| [Project+](https://www.credly.com/badges/37d72834-bdbb-46f4-8587-61afb3352747/public_url) · [Data+](https://www.credly.com/badges/c2cd7564-0d57-465f-b029-b3c0d920fe20/public_url) | |
 
-## Certifications
+---
 
-- [CompTIA A+](https://www.credly.com/badges/781d950a-cba1-40d3-8554-7b9b8cda7072/public_url)
-- [CompTIA Network+](https://www.credly.com/badges/b3f6a8b6-253e-4223-b2fe-0aa83305575e/public_url)
-- [CompTIA Security+](https://www.credly.com/badges/06906581-179b-4b50-8240-7474739adcad/public_url)
-- [CompTIA Project+](https://www.credly.com/badges/37d72834-bdbb-46f4-8587-61afb3352747/public_url)
-- [CompTIA Data+](https://www.credly.com/badges/c2cd7564-0d57-465f-b029-b3c0d920fe20/public_url)
-- ITIL Foundation
+<div align="center">
 
-## What I'm working toward
+🩵 **Currently building:** More investigations that show the evidence, queries, and reasoning behind each conclusion.
 
-My cybersecurity coursework at WGU and hands-on lab work support my goal of moving into a junior SOC or cybersecurity analyst role. I'm building more investigations that show the evidence, queries, and reasoning behind each conclusion.
+</div>
