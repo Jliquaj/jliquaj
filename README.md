@@ -5,7 +5,6 @@
   <p><strong>Hi, I'm Jliqua 👋🏾</strong><br>I turn logs and other evidence into clear findings and practical next steps.</p>
   <p>
     <a href="https://linkedin.com/in/j%E2%80%99liqua-j-503008b3/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-A9D8F3?style=for-the-badge&amp;logo=linkedin&amp;logoColor=243746" alt="Connect on LinkedIn"></a>
-    <a href="https://github.com/Jliquaj/SOC-Detection-Lab"><img src="https://img.shields.io/badge/Explore_my_lab-F7C9DA?style=for-the-badge&amp;logo=github&amp;logoColor=243746" alt="Explore my SOC lab"></a>
   </p>
 </div>
 
@@ -15,15 +14,9 @@
 
 I'm building a career in cybersecurity with a focus on SOC analysis, alert triage, and incident investigation. My WGU cybersecurity coursework and hands-on lab work help me practice following the evidence, explaining what I found, and identifying sensible next steps.
 
-### 🔎 Featured project
+### 📂 Projects
 
-**[SOC Detection Lab →](https://github.com/Jliquaj/SOC-Detection-Lab)**
-
-A Splunk investigation of sample Apache access logs. I reviewed `401` responses and requests to sensitive paths, then documented the searches, visuals, and observations. The project includes screenshots and notes on what the sample can and cannot establish.
-
-[![Splunk visualization showing client IPs and requested paths](https://raw.githubusercontent.com/Jliquaj/SOC-Detection-Lab/main/ref7-clientip-path-bar-chart.jpeg)](https://github.com/Jliquaj/SOC-Detection-Lab)
-
-*Click the visualization to see the full investigation.*
+- **[SOC Detection Lab](https://github.com/Jliquaj/SOC-Detection-Lab):** Used Splunk to review sample Apache logs, including `401` responses and requests to sensitive paths. The repo documents the investigation steps and visuals.
 
 ### 🛠️ Skills & tools
 
